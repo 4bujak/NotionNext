@@ -18,7 +18,7 @@ module.exports = {
   FONT_PRELOAD: process.env.NEXT_PUBLIC_FONT_PRELOAD || true,
   // FONT_SUBSET: process.env.NEXT_PUBLIC_FONT_SUBSET || 'chinese-simplified',
  
-  FONT_SANS: [
+  FONT_SANS:  [
       '"Pretendard Variable"',
       'Pretendard',
       '-apple-system',

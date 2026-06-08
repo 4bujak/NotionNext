@@ -10,6 +10,8 @@ const Style = () => {
     // bottom color
     .dark body{
         background-color: black;
-    }
+      }
+    `}</style>
+  }
 
-export { Style }
+  export { Style }

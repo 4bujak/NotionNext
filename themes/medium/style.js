@@ -1,13 +1,13 @@
 /* eslint-disable react/no-unknown-property */
 /**
- * 此处样式只对当前主题生效
- * 此处不支持tailwindCSS的 @apply 语法
+ * 이 스타일은 현재 테마에만 적용됩니다.
+ * tailwindCSS의 @apply 구문을 지원하지 않습니다.
  * @returns
  */
 const Style = () => {
   return <style jsx global>{`
     
-    // 底色
+    // bottom color
     .dark body{
         background-color: black;
     }
